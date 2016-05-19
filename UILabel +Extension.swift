@@ -9,11 +9,7 @@
 import UIKit
 
 extension UILabel {
-    func boundingRectWithSize(size:CGSize) ->CGSize {
-        
-    
-    }
-    
+     
     
     
     
