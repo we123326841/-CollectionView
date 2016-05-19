@@ -10,9 +10,6 @@ import UIKit
 
 extension UILabel {
     func boundingRectWithSize(size:CGSize) ->CGSize {
-        let dict = [NSFontAttributeName : UIFont.systemFontOfSize(14)]
-        var text1: NSString = NSString(CString: text!.cStringUsingEncoding(NSUTF8StringEncoding)!,encoding: NSUTF8StringEncoding)!
-        
         
     
     }
